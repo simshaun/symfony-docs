@@ -96,7 +96,7 @@ rely on the bundle you are about to remove.
 .. tip::
 
     If one bundle relies on another, in most cases it means that it uses some
-    services from the bundle. Searching for a ``acme_demo`` string may help
+    services from the bundle. Searching for an ``acme_demo`` string may help
     you spot them.
 
 .. tip::
